@@ -7,7 +7,7 @@ from kivy.core.window import Window
 from kivy.uix.button import Button
 from mainscreen_tabs import FilesTab
 
-Window.size = (800, 480)
+Window.size = (480, 320)
 
 
 class MainScreen(Screen):
